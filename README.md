@@ -8,7 +8,7 @@
 <details>
   <summary>Click to show</summary>
   
-  | Cheat snakeaids | Description |
+  | Cheat snakeads | Description |
   |----------|----------|
   | Infinite Health | Makes you invulnerable to most forms of damage |
   | Infinite Grenades | Grenades are always at max capacity |
